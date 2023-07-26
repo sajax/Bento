@@ -144,7 +144,7 @@ const CONFIG = {
 				},
 				{
 					name: '/r/all',
-					link: 'https://old.reddit.com/r/all/,
+					link: 'https://old.reddit.com/r/all/',
 				},
 				{
 					name: '/r/formula1',
